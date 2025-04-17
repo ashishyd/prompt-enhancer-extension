@@ -1,0 +1,26 @@
+{
+  "name": "prompt-enhancer-extension",
+  "version": "1.0.0",
+  "description": "a chrome extension to enhance your prompts",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishyd/prompt-enhancer-extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishyd/prompt-enhancer-extension/issues"
+  },
+  "homepage": "https://github.com/ashishyd/prompt-enhancer-extension#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.24.0",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3"
+  }
+}
